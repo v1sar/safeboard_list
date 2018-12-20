@@ -25,9 +25,5 @@
 
     </activity>
 
-    <activity
-        android:name=".ActorRecyclerActivity"
-        android:label="@string/title_recyclerview" />
-
   </application>
 </manifest>
